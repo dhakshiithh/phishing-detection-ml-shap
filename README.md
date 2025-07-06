@@ -34,7 +34,7 @@ This project implements an end-to-end **phishing detection pipeline** leveraging
 
 5. **Evaluation**
    - Computed accuracy, precision, recall, confusion matrix, and classification report for each model.
-   - **Achieved ~98% test accuracy** using Random Forest.
+   - **Achieved ~96% test accuracy** using Random Forest.
 
 6. **Model Interpretability**
    - Implemented SHAP analysis to interpret feature importances over 1000 samples.
@@ -56,18 +56,8 @@ This project implements an end-to-end **phishing detection pipeline** leveraging
 
 ---
 
-## 💡 **Future Work**
-
-- Integrate into a **Flask web application** for real-time URL scanning  
-- Expand dataset with live phishing data feeds  
-- Explore ensemble stacking for improved generalisation
-
----
-
 ## 🧑‍💻 **Author**
 
-[Your Name]
+[Dhakshith Sureshkumar]
 
 ---
-
-> ⚠️ **Note**: Replace placeholder accuracies with final results from your notebook before publishing.
